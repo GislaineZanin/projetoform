@@ -1,6 +1,6 @@
 # projetoform
 ## Primeiro projeto pessoal - Formulário de Cadastro de Desenvolvedores
-(https://github.com/GislaineZanin/projetoform/blob/master/LICENSE)
+[MIT License](https://github.com/GislaineZanin/projetoform/blob/master/LICENSE)
 
 ## Sobre o projeto
 __Hello, world!__<br>
